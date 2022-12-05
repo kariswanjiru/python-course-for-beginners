@@ -1,1 +1,5 @@
 project.py
+
+__pycache__/
+*.pyc[cod]
+*$py.class
